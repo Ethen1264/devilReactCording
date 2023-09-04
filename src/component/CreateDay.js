@@ -10,7 +10,7 @@ export default function CreateDay() {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-      },
+      }, 
       body: JSON.stringify({
         day: days.length + 1,
       }),

@@ -33,7 +33,7 @@ function del(){
   }).then(res => {
     if(res.ok) {
       setWord({...word, id: 0})
-    }
+    } 
   })
   }
 } 

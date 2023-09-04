@@ -15,6 +15,6 @@ export default function DayList(){
             <Link to={`/day/${day.day}`}>Day {day.day}</Link> 
           </li>
         ))}
-      </ul>
+      </ul> 
   )
 } 

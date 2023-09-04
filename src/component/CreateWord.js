@@ -23,7 +23,7 @@ export default function CreateWord() {
         isDone : false
       }),
     }).then(res => {
-      if (res.ok) { 
+      if (res.ok) {  
         alert('생성이 완료 되었습니다')
         navigate(`/day/${dayRef.current.value}`)
         setIsLoading(false)

@@ -20,7 +20,7 @@ function App() {
           <Route path='/create_day' element={<CreateDay />}/>
         </Routes>
       </div> 
-    </BrowserRouter>
+    </BrowserRouter> 
   );
 }
 

@@ -12,7 +12,7 @@ export default function Header() {
         </Link>
         <Link to="/create_day" className="link">
           Day 추가
-        </Link>
+        </Link> 
       </div>
     </div> 
   );

@@ -19,5 +19,5 @@ export default function Day() {
       </tbody>
     </table>
   </>
-  )
+  ) 
 } 

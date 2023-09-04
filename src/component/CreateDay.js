@@ -19,7 +19,7 @@ export default function CreateDay() {
         alert("생성이 완료 되었습니다");
         navigate('/')
       }
-    });
+    }); 
   }
   return (
     <div>

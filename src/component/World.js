@@ -36,7 +36,7 @@ function del(){
     }
   })
   }
-}
+} 
 
 if(word.id ===0) { 
   return null

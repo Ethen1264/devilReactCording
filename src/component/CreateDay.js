@@ -27,4 +27,4 @@ export default function CreateDay() {
       <button onClick={addDay}>Day 추가</button>
     </div>
   );
-}
+} 

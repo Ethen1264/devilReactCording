@@ -14,6 +14,6 @@ export default function Header() {
           Day 추가
         </Link>
       </div>
-    </div>
+    </div> 
   );
 }

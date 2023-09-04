@@ -19,7 +19,7 @@ function App() {
           <Route path='/create_word' element={<CreateWord />}/>
           <Route path='/create_day' element={<CreateDay />}/>
         </Routes>
-      </div>
+      </div> 
     </BrowserRouter>
   );
 }

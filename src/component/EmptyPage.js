@@ -7,4 +7,4 @@ export default function EmptyPage() {
       <Link to="/">돌아가기</Link>
     </>
   );
-}
+} 
